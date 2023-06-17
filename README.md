@@ -1,7 +1,7 @@
-![](https://media.giphy.com/media/yyhJaoPDhCbBu/giphy.gif)
+<div align="center">
 
-<p align="center">
+![](https://media.tenor.com/tHss08AyS24AAAAC/batman-the-dark-knight.gif)
 
 ![](https://komarev.com/ghpvc/?username=lanceleau02&color=grey)
 
-</p>
+</div>
