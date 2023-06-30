@@ -1,6 +1,6 @@
 <div align="center">
 
-# WELCOME TO MY GITHUB
+<h1>WELCOME TO MY GITHUB</h1>
 
 ![](https://media.tenor.com/tHss08AyS24AAAAC/batman-the-dark-knight.gif)
 
@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=lanceleau02&color=grey)
 
-## LANGUAGES & TOOLS
+<h2>LANGUAGES & TOOLS</h2>
 
 <p>
 
