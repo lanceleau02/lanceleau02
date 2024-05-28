@@ -23,7 +23,7 @@
 
 <a href="https://www.microsoft.com/en-us/windows?r=1"> <img src="https://static-00.iconduck.com/assets.00/windows-icon-510x512-f0dcmun5.png" title="Windows" width="40" height="40"/></a>
 &emsp;
-<a href="https://www.linux.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/></a>
+<a href="https://www.linux.org/"> <img src="https://static-00.iconduck.com/assets.00/linux-tux-icon-445x512-u5qvnbf5.png" title="Linux" width="40" height="45"/></a>
 &emsp;
 <a href="https://ubuntu.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" title="Ubuntu" width="40" height="40"/></a>
 &emsp;
